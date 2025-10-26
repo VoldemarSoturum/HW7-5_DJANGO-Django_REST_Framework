@@ -158,32 +158,28 @@ def test_add_measurement_with_image(self):
 
 ## Скриншоты (дополнение)
 
-> Добавьте сюда иллюстрации по новой функциональности:
+> Иллюстрации по новой функциональности:
 >
 > - **Multipart запрос с изображением (requests.http)**  
->   ![req-measurement-multipart](docs/img/req-measurement-multipart.png)
->
+>   ![req-measurement-multipart](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1%2BPictures-DRF_and_CRUD_for_Smart_Home/FOR_README/1.png)
+> 
 > - **Ответ сервера с полем image**  
->   ![resp-measurement-image](docs/img/resp-measurement-image.png)
+>   ![resp-measurement-image](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1%2BPictures-DRF_and_CRUD_for_Smart_Home/FOR_README/2.png)
 >
 > - **Открытие файла по URL /media/...**  
->   ![open-media-url](docs/img/open-media-url.png)
+>   ![open-media-url](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1%2BPictures-DRF_and_CRUD_for_Smart_Home/FOR_README/3.png)
 
 ---
 
 ## Диаграмма БД (обновлённая)
 
-> Вставьте ER-диаграмму, где у `Measurement` есть опциональное `image: ImageField`:
+> ER-диаграмма, где у `Measurement` есть опциональное `image: ImageField`:
 >
-> ![db-diagram-with-image](docs/img/db-diagram-with-image.png)
+> ![db-diagram-with-image](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1%2BPictures-DRF_and_CRUD_for_Smart_Home/FOR_README/4.png)
 
 ---
 
 ## Скриншоты наполненной базы данных
 
-> Снимки таблиц/админки с несколькими датчиками и измерениями (с картинками и без):
->
-> - **Таблица Sensor**  
->   ![db-sensor-sample](docs/img/db-sensor-sample.png)
 > - **Таблица Measurement**  
->   ![db-measurement-sample](docs/img/db-measurement-sample.png)
+>   ![db-measurement-sample]([docs/img/db-measurement-sample.png](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1%2BPictures-DRF_and_CRUD_for_Smart_Home/FOR_README/5.png))

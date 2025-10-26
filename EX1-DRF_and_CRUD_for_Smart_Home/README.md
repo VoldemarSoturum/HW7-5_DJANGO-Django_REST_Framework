@@ -289,22 +289,24 @@ EX1-DRF_and_CRUD_for_Smart_Home/
 >  Изображения из `requests.http` VS Code + extention REST Client.
 >
 > - **Список датчиков:**  
->   ![sensors-list](docs/img/sensors-list.png)
+>   ![sensors-list](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1-DRF_and_CRUD_for_Smart_Home/FOR_README/2.png)
 > - **Создание датчика:**  
->   ![sensor-create](docs/img/sensor-create.png)
+>   ![sensor-create](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1-DRF_and_CRUD_for_Smart_Home/FOR_README/3.png)
+> - **Состояние датчика до переноса:**  
+>   ![sensor-bevareUPDATE](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1-DRF_and_CRUD_for_Smart_Home/FOR_README/1.png)
 > - **Обновление датчика:**  
->   ![sensor-update](docs/img/sensor-update.png)
+>   ![sensor-update](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1-DRF_and_CRUD_for_Smart_Home/FOR_README/4.png)
 > - **Добавление измерения:**  
->   ![measurement-create](docs/img/measurement-create.png)
+>   ![measurement-create](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1-DRF_and_CRUD_for_Smart_Home/FOR_README/5.png)
 > - **Детали датчика:**  
->   ![sensor-detail](docs/img/sensor-detail.png)
+>   ![sensor-detail](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1-DRF_and_CRUD_for_Smart_Home/FOR_README/6.png)
 
 
 ---
 
 ## Диаграмма БД
 
-> ![db-diagram](docs/img/db-diagram.png)
+> ![db-diagram](https://github.com/VoldemarSoturum/HW7-5_DJANGO-Django_REST_Framework/blob/main/EX1-DRF_and_CRUD_for_Smart_Home/FOR_README/netology_smart_home%20-%20public.png)
 
 —
 
